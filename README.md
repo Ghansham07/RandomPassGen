@@ -4,7 +4,7 @@ A simple and responsive web-based Random Password Generator that creates secure 
 
 ## 🌐 Live Preview
 
-> *(Add your GitHub Pages or live link here if hosted)*
+https://ghansham07.github.io/RandomPassGen/
 
 ## 🚀 Features
 
